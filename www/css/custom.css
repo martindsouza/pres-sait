@@ -1,0 +1,37 @@
+.reveal section img {
+  border: none;
+}
+
+
+.no-bullet ~ ul{
+  list-style-type: none;
+}
+
+
+.attribution{
+    position:absolute;
+    bottom:0;
+    right:0;
+    font-size:0.5em
+}
+
+
+.clarifit-logo{
+  width: 30%;
+}
+
+.odtug-logo{
+  width: 42%;
+}
+
+.insum-logo{
+  width: 44%;
+}
+
+.white{
+  color: white;
+}
+
+.red{
+  color: red;
+}
