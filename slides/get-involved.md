@@ -1,3 +1,9 @@
+<!-- .slide: data-background="#000" -->
+
+# <i class="fa fa-users fa-3x white"></i>
+
+new-slide-vertical
+
 # `<me>`
 
 new-slide-vertical
@@ -129,3 +135,7 @@ new-slide-vertical
 <!-- .slide: data-background="#31406b" -->
 
 ## <span class="white stretch">_You online presence is your resume_</span>
+
+new-slide-vertical
+
+![job stats](www/img/ab-job-stats.png)
